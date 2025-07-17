@@ -69,5 +69,5 @@ Follow these steps to set up your Jupyter Notebook environment in WSL with autom
    Your default Windows browser should open automatically.
 
 ---
-## test
+## test again
 **You are now set up to use Jupyter Notebook in WSL with automatic browser launching!** 
